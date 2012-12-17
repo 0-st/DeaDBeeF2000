@@ -3,7 +3,7 @@ DeaDBeeF2000
 
 The foobar2000 equalizer settings made by [Sjeng] converted for use with [DeaDBeeF].
 
-Feel free to share these eq settings with your friends.
+Feel free to share these eq presets with your friends.
 
 You can find the original source [here] [1].
 
